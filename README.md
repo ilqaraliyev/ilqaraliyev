@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm İlqar!
 
-### Backend Developer | ASP.NET Core & C#  
+### Junior Backend Developer | ASP.NET Core & C#  
 
 📍 Azerbaijan
 
