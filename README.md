@@ -15,7 +15,6 @@
 **Frontend (Basic Knowledge)**
 - React
 - TypeScript
-- HTML/CSS
 
 ### 🚀 Currently Learning
 - Docker
