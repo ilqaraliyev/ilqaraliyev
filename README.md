@@ -1,20 +1,26 @@
 ## 👋 Hi there, I'm İlqar!
 
-### Backend Developer | ASP.NET Core & React 
+### Backend Developer | ASP.NET Core & C#  
 
 📍 Azerbaijan
 
 ### 💻 Tech Stack
 
 **Backend**
-- ASP.NET Core
 - C#
+- ASP.NET Core
 - EF Core
-- MSSQL
+- SQL Server
 
-**Frontend**
+**Frontend (Basic Knowledge)**
 - React
 - TypeScript
+- HTML/CSS
+
+### 🚀 Currently Learning
+- Docker
+- CI/CD
+- Cloud Technologies
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilqaraliyev/)
